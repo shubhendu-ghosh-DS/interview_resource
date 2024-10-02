@@ -1,1 +1,5 @@
-
+x = "https://www.turing.com/interview-questions/artificial-intelligence"
+y = "https://www.blockchain-council.org/ai/generative-ai-questions-and-answers/"
+z = "https://www.datacamp.com/blog/llm-interview-questions"
+m = "https://101blockchains.com/top-llms-interview-questions-and-answers/"
+v = "https://masteringllm.medium.com/how-to-prepare-for-large-language-models-llms-interview-a578e703b209"
